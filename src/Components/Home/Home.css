@@ -1,0 +1,26 @@
+.top{
+    margin: 20px;
+}
+
+.dropdowns{
+    width: 90vw;
+    height: 100%;
+    border: 1px solid #e9e8e8;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #e9e8e8;
+    display: flex;
+}
+
+.pieHolder{
+    width: 90vw;
+    height: 100%;
+    border: 1px solid #e9e8e8;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #e9e8e8;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+}
